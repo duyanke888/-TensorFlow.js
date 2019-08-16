@@ -1,0 +1,17 @@
+{
+  "name": "duyanke888",
+  "version": "1.0.0",
+  "description": "微信小程序tfjs应用",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duyanke888",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.7",
+    "@tensorflow/tfjs-converter": "1.2.7",
+    "@tensorflow/tfjs-core": "1.2.7",
+    "fetch-wechat": "0.0.3"
+  }
+}
