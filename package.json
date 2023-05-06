@@ -9,9 +9,9 @@
   "author": "duyanke888",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.2.7",
+    "@tensorflow/tfjs": "^4.5.0",
     "@tensorflow/tfjs-converter": "1.2.7",
-    "@tensorflow/tfjs-core": "1.2.7",
+    "@tensorflow/tfjs-core": "4.5.0",
     "fetch-wechat": "0.0.3"
   }
 }
